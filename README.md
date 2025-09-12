@@ -6,6 +6,8 @@ An Android implementation of the traditional Nepali chess game, also known as Ma
 
 This Android application is a digital version of Makruk, the traditional chess variant played in Nepal and Thailand. The game features the same strategic depth as international chess but with simplified rules and unique piece movements.
 
+This is a school project for shree pokhariya secondary school of 11 tech batch: 2082. We are learning android development and this is our first major project.
+
 ## 📱 Features
 
 - Authentic implementation of Nepali classical chess rules
@@ -142,7 +144,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Inspired by traditional Nepali board games
 - Built with modern Android development practices
-- Special thanks to the Android developer community
+- Special thanks to the Android developer community and our teachers at shree pokhariya secondary school for guidance
 
 ## 🔧 Troubleshooting
 
