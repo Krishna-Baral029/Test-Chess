@@ -161,3 +161,5 @@ If you encounter any issues:
 ---
 
 **Enjoy playing Nepali Classical Chess game and hope you like it 💖** ♟️
+
+Directly download the apk file from: "apkfilesbykrish029.netlify.app"
